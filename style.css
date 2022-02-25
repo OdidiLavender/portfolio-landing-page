@@ -56,3 +56,13 @@ color: red;
     color: rgb(15, 15, 15);
     line-height: 30px;
 }
+.image{
+   width: 45%;
+   height: 80%;
+   position: absolute;
+   bottom: 35%;
+   margin-left:70%;
+   border: 35;
+   
+
+}
