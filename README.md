@@ -1,9 +1,6 @@
 ## PORTFOLIO-LANDING-PAGE
 
-This is a portfolio landing page website where customers come and 
-order tastey delicious burgers at pocket friendly prices,
-It contains basic features that a basic website has with great color and parterns. 
-
+This is a portfolio landing page website where customers can get to access different works I've done with my skills in coding
 ## Table of contents
 * [Project Name](#Portfolio landing page)
 * [Author]()
@@ -21,12 +18,11 @@ PORTFOLIO-LANDING-PAGE
 
 
 ## Description_of_Project
-A Simple website in progress where one gets to see my portfolio landing page.
+A Simple website in progress where one gets to see my portfolio.
 
 
 ## Project setup instructions
-A Simple website in progress were tasty delicious burgers are sold at fair prices for the consumers to enjoy.
-
+A Simple website in progress were people can get to access my portfolio.
 To run this program:
 
 ```
