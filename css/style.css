@@ -146,6 +146,10 @@ img
 {
     width: 7px;
 }
+
+
+
+
 /*===== Navbar =====*/
 .navbar
 {
@@ -259,6 +263,10 @@ img
     color: var(--main-color);
     background-color: var(--white);
 }
+
+
+
+
 /*===== Home =====*/
 .home-section
 {
@@ -357,6 +365,10 @@ img
     top: 0;
     left: 0;
 }
+
+
+
+
 /*===== About =====*/
 .about-section .about-image,
 .about-section .about-content
@@ -467,6 +479,9 @@ img
     top: -7px;
     right: 0;
 }
+
+
+
 /*.===== hobbies==== */
 .section-titletext-align{
     justify-content: center;
@@ -634,6 +649,9 @@ img
 {
     line-height: 40px;
 }
+
+
+
 /*===== contact =====*/
 .contact-section
 {
